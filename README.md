@@ -8,7 +8,7 @@ I am currently a 4th year Computer Engineering student, I will have completed my
 
 * 🌍  I'm based in Erzincan, Turkey
 * 🖥️  See my portfolio at [zehramelikecicek.dev](http://https://zehramelikecicek.dev/)
-* ✉️  You can contact me at [zehramelikecicek@gmail.com](mailto:zehramelikecicek@gmail.com)
+* ✉️  You can contact me at [info@zehramelikecicek.dev](mailto:info@zehramelikecicek.dev)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on remote part-time or full-time job offers
 
