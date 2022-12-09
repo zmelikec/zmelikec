@@ -7,7 +7,7 @@ Mobile Application Developer
 I am currently a 4th year Computer Engineering student, I will have completed my education in September 2023. Until I got to this point, I always showed an open attitude to new information and opportunities in order to improve myself. I aim to advance my career in the field of mobile application development. Although I have improved myself on the Kotlin language so far, I wanted to give different languages a chance as I wanted to have different experiences after a point. For this reason, I embarked on the React Native journey, which I think will have a positive impact on my career.
 
 * 🌍  I'm based in Erzincan, Turkey
-* 🖥️  See my portfolio at [MyWebSitePortfolio](http://https://zehramelikecicek.dev/)
+* 🖥️  See my portfolio at [zehramelikecicek.dev](http://https://zehramelikecicek.dev/)
 * ✉️  You can contact me at [zehramelikecicek@gmail.com](mailto:zehramelikecicek@gmail.com)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on remote part-time or full-time job offers
